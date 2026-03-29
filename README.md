@@ -14,7 +14,7 @@ Je suis actuellement à la recherche d'un **stage de 4 à 6 mois (disponible imm
 ---
 
 ### 📂 Projets Phares
-* **[Analyse de Discours Politique (1914-1950)](lien-vers-ton-repo) :** Pipeline d'extraction OCR et classification sémantique de titres de presse historique.
+* **[Analyse de Discours Politique (1914-1950)](https://plmlatex.math.cnrs.fr/project/695fe7c9bef35ed76d27f8cc) :** Pipeline d'extraction OCR et classification sémantique de titres de presse historique.
 * **[Normalisation Patrimoniale](lien-vers-ton-repo) :** Restructuration de bases de données brutes et mise en conformité aux standards d'interopérabilité.
 * **[Projet JABE - Impro-Danses-16](lien-vers-ton-repo) :** Valorisation numérique et indexation de ressources multimédias hétérogènes.
 
